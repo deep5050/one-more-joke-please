@@ -1,17 +1,7 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> One More Joke-please
-
-My Chrome Extension
-
-## Features
-
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
-
+<div align=center>
+  <img align="center" src="./logo.png"/>
+  <br>
+  <p align=center> One More Joke Please </p>
+  <p align=center> Random Joke On New Chrome Tab</p>
+  
+  </div>
