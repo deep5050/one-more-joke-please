@@ -1,7 +1,7 @@
 {
   "name": "one-more-joke-please",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Random joke on new tab",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",
@@ -16,5 +16,8 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-merge": "^5.4.0"
+  },
+  "dependencies": {
+    "nice-color-palettes": "^3.0.0"
   }
 }

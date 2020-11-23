@@ -7,10 +7,18 @@
     box-sizing: border-box;
 }
 /* normalize css ends here */
+@font-face {
+    font-family: "handlee";
+    src: url("../public/fonts/Handlee-Regular.ttf");
+}
 
+@font-face{
+    font-family: "BS";
+    src: url('../public/fonts/BerkshireSwash-Regular.ttf');
+}
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, handlee, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
     background-image: linear-gradient(to right, #EC6EAD, #3494E6);
     -webkit-font-smoothing: antialiased;
     color: #fff;
@@ -21,30 +29,37 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 60vh;
     padding: 20px;
     text-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
 }
 
 .day {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
+    
 }
 
 .clock {
-    font-size: 80px;
+    font-family: 'BS';
+    font-size: 90px;
     font-weight: 600;
 }
 
-.title {
+.joke {
     margin-top: 5px;
     font-size: 26px;
     font-weight: 600;
+    font-family: 'handlee';
 }
 
 .subtitle {
     font-size: 14px;
     margin-top: 10px;
+}
+
+.badge{
+    margin-top: 30px;
 }
 
 code {
