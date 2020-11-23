@@ -17,7 +17,7 @@ See the [open issues](https://github.com/deep5050/one-more-joke-please/issues) f
 ## Version History
 
 
-`v1.0.0` [Initial release] : First release
+`v1.0.0`: First release
 
 
 <!-- CONTRIBUTING -->
