@@ -10,7 +10,7 @@
 ## Install
 1. Download the extension from [here](https://github.com/deep5050/one-more-joke-please/releases/download/v1.0/one-more-joke-please-v1.0.crx)
 2. Goto `chrome://extensions/`
-3. Drop the downloaded file or double click the file
+3. Drop the downloaded file here or just double click to open
 4. No step 4!
 
 ## Roadmap
