@@ -4,7 +4,8 @@
   <p> </p>
   <p align=center>
   <h4 align=center > Random Joke On Chrome New Tab</h4>
-  </p>
+  <img align=center alt="GitHub all releases" src="https://img.shields.io/github/downloads/deep5050/one-more-joke-please/total?style=for-the-badge">
+</p>
   </div>
 
 ## Install
