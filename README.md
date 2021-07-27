@@ -6,7 +6,8 @@
   <p> </p>
   <p align=center>
   <h4 align=center > Random Joke On Chrome New Tab</h4>
-  <img align=center alt="GitHub all releases" src="https://img.shields.io/github/downloads/deep5050/one-more-joke-please/total?style=for-the-badge">
+  <a href="https://www.producthunt.com/posts/one-more-joke-please?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-one-more-joke-please" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=305949&theme=dark" alt="One More Joke Please - Random jokes on Chrome new tab | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<img align=center alt="GitHub all releases" src="https://img.shields.io/github/downloads/deep5050/one-more-joke-please/total?style=for-the-badge">
 </p>
   </div>
 
